@@ -14,7 +14,8 @@ This repository helps performance testers and engineers who wants to dive into D
 * Docker Swarm
 * Kubernetes
 * CI/CD
-* Jenkins or TeamCity or equivalent solution 
+* Jenkins or TeamCity or equivalent solution
+* Rancher
 
 # Read
 
@@ -33,9 +34,14 @@ This repository helps performance testers and engineers who wants to dive into D
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [Learn Docker](https://learndocker.online/)
 
-# Certifications
+# Show-off
 
-# Blogs/Links
+* [Certified Rancher Operator: Level 1](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about)
+* [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+* [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+
+# Others
+
 * [Dynatrace DevOps](https://www.dynatrace.com/resources/ebooks/what-is-devops-and-release-management/)
 * [New Relis DevOps](https://newrelic.com/devops/)
 
