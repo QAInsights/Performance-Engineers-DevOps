@@ -4,7 +4,16 @@ This repository helps performance testers and engineers who wants to dive into D
 
 # Learning Path
 
-. Python Basics
+* Learn any programming language that you are comfortable. e.g Python, Go, Shell scripting etc.
+* YAML/JSON
+* Git commands
+* Linux Basics
+* vi/vim/nano Editor
+* Docker
+* Docker Swarm
+* Kubernetes
+* CI/CD
+* Jenkins or TeamCity or equivalent solution 
 
 # Books
 
