@@ -31,6 +31,8 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Docker for Beginners](https://docker-curriculum.com/)
 * [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 * [AWS DevOps](https://aws.amazon.com/devops/)
+* [DevOps Practices and Principles from Microsoft](https://www.edx.org/course/devops-practices-and-principles)
+* [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture?)
 
 # 📺 Watch 
 
@@ -53,6 +55,8 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
 * [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
 * [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+* [Puppet Professional](https://puppet.com/learning-training/certification/)
+* 
 
 # 📌 Others 
 
