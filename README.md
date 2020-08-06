@@ -41,6 +41,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * KodeKloud
 * Linux Academy
 * [Kube Academy](https://kube.academy/)
+* [Whiz Labs](https://found.ee/JsuU)
 
 # 🏑 Practice 
 
