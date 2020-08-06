@@ -37,6 +37,12 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Prometheus LFS241](https://found.ee/R503)
 * [Google DevOps](https://cloud.google.com/devops)
 * [Learn Docker](https://learndocker.online/)
+* [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/3igKQTG)
+* [Site Reliability Engineering: How Google Runs Production Systems](https://amzn.to/33yoIzZ)
+* [Seeking SRE: Conversations About Running Production Systems at Scale](https://amzn.to/33x2VZk)
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3gyctHe)
+* [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
+* [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 
 
 # 📺 Watch 
