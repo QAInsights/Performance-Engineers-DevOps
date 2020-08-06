@@ -21,6 +21,8 @@ This repository helps performance testers and engineers who wants to dive into D
 
 * [Site Reliability Engineering](https://landing.google.com/sre/)
 * [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+* [Docker for Beginners](https://docker-curriculum.com/)
+* [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 # 📺 Watch 
 
@@ -43,4 +45,4 @@ This repository helps performance testers and engineers who wants to dive into D
 # 📌 Others 
 
 * [Dynatrace DevOps](https://www.dynatrace.com/resources/ebooks/what-is-devops-and-release-management/)
-* [New Relis DevOps](https://newrelic.com/devops/)
+* [New Relic DevOps](https://newrelic.com/devops/)
