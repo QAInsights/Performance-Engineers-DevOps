@@ -22,6 +22,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * Puppet
 * Chef
 * SaltStack
+* Prometheus
 
 
 # 📖 Read 
@@ -33,6 +34,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [AWS DevOps](https://aws.amazon.com/devops/)
 * [DevOps Practices and Principles from Microsoft](https://www.edx.org/course/devops-practices-and-principles)
 * [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture?)
+* [Prometheus LFS241](https://found.ee/R503)
 
 # 📺 Watch 
 
@@ -50,8 +52,8 @@ It lists the important links, books, courses, certifications and more. Feel free
 # 🎉 Show-off 
 
 * [Certified Rancher Operator: Level 1](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about)
-* [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
-* [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+* [Certified Kubernetes Administrator](https://found.ee/dPwO)
+* [Certified Kubernetes Application Developer](https://found.ee/Bccy)
 * [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
 * [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
 * [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
