@@ -35,6 +35,7 @@ This repository helps performance testers and engineers who wants to dive into D
 * [KataKoda](https://www.katacoda.com/)
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [Learn Docker](https://learndocker.online/)
+* [k3s](https://found.ee/InlG) - Free credits during beta
 
 # 🎉 Show-off 
 
