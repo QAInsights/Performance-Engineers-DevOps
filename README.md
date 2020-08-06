@@ -35,6 +35,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [DevOps Practices and Principles from Microsoft](https://www.edx.org/course/devops-practices-and-principles)
 * [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture?)
 * [Prometheus LFS241](https://found.ee/R503)
+* [Google DevOps](https://cloud.google.com/devops)
 
 # 📺 Watch 
 
@@ -49,6 +50,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [KataKoda](https://www.katacoda.com/)
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [Learn Docker](https://learndocker.online/)
+* [QwikLabs](https://www.qwiklabs.com/)
 
 # 🎉 Show-off 
 
@@ -59,7 +61,8 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
 * [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 * [Puppet Professional](https://puppet.com/learning-training/certification/)
-* 
+* [Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
+
 
 # 📌 Others 
 
