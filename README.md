@@ -1,6 +1,7 @@
 # Performance-Engineers-DevOps
 
-This repository helps performance testers and engineers who wants to dive into DevOps and SRE world. It lists the important links, books, courses, certifications and more. Feel free to submit a PR.
+This repository helps performance testers and engineers who wants to dive into DevOps and SRE world.  
+It lists the important links, books, courses, certifications and more. Feel free to submit a PR.
 
 # ⚡ Learning Path 
 
@@ -16,6 +17,12 @@ This repository helps performance testers and engineers who wants to dive into D
 * CI/CD
 * Jenkins or TeamCity or equivalent solution
 * Rancher
+* Ansible
+* Terraform
+* Puppet
+* Chef
+* SaltStack
+
 
 # 📖 Read 
 
@@ -23,6 +30,7 @@ This repository helps performance testers and engineers who wants to dive into D
 * [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Docker for Beginners](https://docker-curriculum.com/)
 * [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+* [AWS DevOps](https://aws.amazon.com/devops/)
 
 # 📺 Watch 
 
@@ -32,16 +40,19 @@ This repository helps performance testers and engineers who wants to dive into D
 
 # 🏑 Practice 
 
+* [k3s](https://found.ee/InlG) - Free credits during beta (Referral Link)
 * [KataKoda](https://www.katacoda.com/)
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [Learn Docker](https://learndocker.online/)
-* [k3s](https://found.ee/InlG) - Free credits during beta
 
 # 🎉 Show-off 
 
 * [Certified Rancher Operator: Level 1](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about)
 * [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 * [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+* [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
+* [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
+* [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 
 # 📌 Others 
 
