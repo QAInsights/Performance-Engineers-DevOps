@@ -25,7 +25,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * Prometheus
 
 
-# 📖 Read 
+# 📖 Read / Courses
 
 * [Site Reliability Engineering](https://landing.google.com/sre/)
 * [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
@@ -36,6 +36,8 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture?)
 * [Prometheus LFS241](https://found.ee/R503)
 * [Google DevOps](https://cloud.google.com/devops)
+* [Learn Docker](https://learndocker.online/)
+
 
 # 📺 Watch 
 
@@ -49,7 +51,6 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [k3s](https://found.ee/InlG) - Free credits during beta (Referral Link)
 * [KataKoda](https://www.katacoda.com/)
 * [Play with Docker](https://labs.play-with-docker.com/)
-* [Learn Docker](https://learndocker.online/)
 * [QwikLabs](https://www.qwiklabs.com/)
 
 # 🎉 Show-off 
