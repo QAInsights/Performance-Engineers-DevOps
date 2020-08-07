@@ -51,6 +51,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * Linux Academy
 * [Kube Academy](https://kube.academy/)
 * [Whiz Labs](https://found.ee/JsuU)
+* [Channel 9](https://channel9.msdn.com/Shows/DevOps-Lab)
 
 # 🏑 Practice 
 
