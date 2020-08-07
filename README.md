@@ -59,6 +59,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [KataKoda](https://www.katacoda.com/)
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [QwikLabs](https://www.qwiklabs.com/)
+* [k8s basicLearning](https://github.com/knrt10/kubernetes-basicLearning)
 
 # 🎉 Show-off 
 
