@@ -1,6 +1,9 @@
 # Performance-Engineers-DevOps
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/QAInsights/Performance-Testing-Certifications/issues) ![awesome-badge](https://camo.githubusercontent.com/463a60fdb1678820dcfb45e05439861c6dcf3029/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6261646765732d617765736f6d652d677265656e2e737667) [![saythanks](https://img.shields.io/badge/say-thanks-1EAEDB.svg)](https://saythanks.io/to/catch.nkn%40gmail.com)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-1EAEDB)]()
+[![saythanks](https://img.shields.io/badge/say-thanks-1EAEDB.svg)](https://saythanks.io/to/catch.nkn%40gmail.com)
+[![](https://img.shields.io/badge/%E2%9D%A4-QAInsights-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://qainsights.com)
+[![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://www.youtube.com/user/QAInsights?sub_confirmation=1)
 
 > Roadmap to becoming a DevOps from Performance Testing/Engineering background in 2020
 
@@ -8,8 +11,7 @@ This repository helps performance testers and engineers who wants to dive into D
 
 It lists the important links, books, courses, certifications and more. Feel free to submit a PR.
 
-[![](https://img.shields.io/badge/%E2%9D%A4-QAInsights-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://qainsights.com)
-[![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/user/QAInsights?sub_confirmation=1)
+
 
 <h3 align="center"><strong>The Purpose</strong></h3>
 
