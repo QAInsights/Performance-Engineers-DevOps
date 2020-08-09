@@ -45,6 +45,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3gyctHe)
 * [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
+* [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)
 
 
 # 📺 Watch 
@@ -54,6 +55,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Kube Academy](https://kube.academy/)
 * [Whiz Labs](https://found.ee/JsuU)
 * [Channel 9](https://channel9.msdn.com/Shows/DevOps-Lab)
+* [Cognitive Class - Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course)
 
 # 🏑 Practice 
 
