@@ -12,8 +12,6 @@ This repository helps performance testers and engineers who wants to dive into D
 
 It lists the important links, books, courses, certifications and more. Feel free to submit a PR.
 
-
-
 <h3 align="center"><strong>The Purpose</strong></h3>
 
 > The purpose of this roadmap is to give you an idea about the DevOps arena and to guide you if you are confused about what to do next. I will try to furnish the relevant information. If you feel something is misleading or suggestion, please submit a PR.
