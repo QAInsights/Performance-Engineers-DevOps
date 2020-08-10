@@ -11,9 +11,11 @@
 
 > Roadmap to becoming a DevOps from Performance Testing/Engineering background in 2020
 
-This repository helps performance testers and engineers who wants to dive into DevOps and SRE world.  
+This repository helps performance testers and engineers who wants to dive into DevOps and SRE world.
 
-It lists the important links, books, courses, certifications and more. Feel free to submit a PR.
+The objective of this roadmap is not to list every software/solution out there, but give you a perspective.
+
+It lists the relevant links, books, courses, certifications and more. Feel free to submit a PR.
 
 <h3 align="center"><strong>The Purpose</strong></h3>
 
