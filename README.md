@@ -19,32 +19,11 @@ It lists the important links, books, courses, certifications and more. Feel free
 
 > The purpose of this roadmap is to give you an idea about the DevOps arena and to guide you if you are confused about what to do next. I will try to furnish the relevant information. If you feel something is misleading or suggestion, please submit a PR.
 
-# Roadmap
+# ⚡ Learning Roadmap
+
+This roadmap has been created using [Coggle](https://coggle.it/recommend/5f319149992aa26cd62beaae). Right click on the image to open in a new tab to zoom in/out.
 
 ![Roadmap](/assets/Roadmap.png)
-
-
-# ⚡ Learning Path 
-
-* Learn any programming language that you are comfortable. e.g Python, Go etc.
-* YAML/JSON
-* Git commands
-* Linux Basics
-* vi/vim/nano Editor
-* Cloud Basics
-* Docker
-* Docker Swarm
-* Kubernetes
-* CI/CD
-* Jenkins or TeamCity or equivalent solution
-* Chaos Engineering
-* Rancher
-* Ansible
-* Terraform
-* Puppet
-* Chef
-* SaltStack
-* Prometheus
 
 ---
 
