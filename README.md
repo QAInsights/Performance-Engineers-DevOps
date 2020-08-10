@@ -64,7 +64,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)
 * [Chaos Engineering](https://www.gremlin.com/chaos-engineering/)
 * [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
-* [SRE](https://www.gremlin.com/site-reliability-engineering)
+* [Gremlin SRE](https://www.gremlin.com/site-reliability-engineering)
 
 ---
 
