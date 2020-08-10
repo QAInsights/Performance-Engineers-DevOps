@@ -37,6 +37,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * Kubernetes
 * CI/CD
 * Jenkins or TeamCity or equivalent solution
+* Chaos Engineering
 * Rancher
 * Ansible
 * Terraform
@@ -45,6 +46,7 @@ It lists the important links, books, courses, certifications and more. Feel free
 * SaltStack
 * Prometheus
 
+---
 
 # 📖 Read / Courses
 
@@ -65,7 +67,11 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 * [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)
+* [Chaos Engineering](https://www.gremlin.com/chaos-engineering/)
+* [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
+* [Gremlin SRE](https://www.gremlin.com/site-reliability-engineering)
 
+---
 
 # 📺 Watch 
 
@@ -76,6 +82,8 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Channel 9](https://channel9.msdn.com/Shows/DevOps-Lab)
 * [Cognitive Class - Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course)
 
+---
+
 # 🏑 Practice 
 
 * [k3s](https://found.ee/InlG) - Free credits during beta (Referral Link)
@@ -83,6 +91,8 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [QwikLabs](https://www.qwiklabs.com/)
 * [k8s basicLearning](https://github.com/knrt10/kubernetes-basicLearning)
+
+---
 
 # 🎉 Show-off 
 
@@ -95,12 +105,15 @@ It lists the important links, books, courses, certifications and more. Feel free
 * [Puppet Professional](https://puppet.com/learning-training/certification/)
 * [Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
 
+---
 
 # 📌 Others 
 
 * [Dynatrace DevOps](https://www.dynatrace.com/resources/ebooks/what-is-devops-and-release-management/)
 * [New Relic DevOps](https://newrelic.com/devops/)
 * [New Relic AI](https://newr.ai/)
+
+---
 
 ## 💲 Donate
 <a target="_blank" href="https://www.buymeacoffee.com/qainsights"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
