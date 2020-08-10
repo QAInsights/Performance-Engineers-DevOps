@@ -13,7 +13,7 @@
 
 This repository helps performance testers and engineers who wants to dive into DevOps and SRE world.
 
-The objective of this roadmap is not to list every software/solution out there, but give you a perspective.
+The intention of this roadmap is not to list every software/solution out there, but give you a perspective.
 
 It lists the relevant links, books, courses, certifications and more. Feel free to submit a PR.
 
