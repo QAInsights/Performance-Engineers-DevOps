@@ -6,6 +6,9 @@
 [![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://www.youtube.com/user/QAInsights?sub_confirmation=1)
 [![](https://img.shields.io/badge/donate-paypal-1EAEDB)](https://www.paypal.com/paypalme/NAVEENKUMARN)
 
+![Performance Engineers DevOps Roadmap](/assets/Performance-Engineers-DevOps-Banner.png)
+
+
 > Roadmap to becoming a DevOps from Performance Testing/Engineering background in 2020
 
 This repository helps performance testers and engineers who wants to dive into DevOps and SRE world.  
