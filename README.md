@@ -19,6 +19,11 @@ It lists the important links, books, courses, certifications and more. Feel free
 
 > The purpose of this roadmap is to give you an idea about the DevOps arena and to guide you if you are confused about what to do next. I will try to furnish the relevant information. If you feel something is misleading or suggestion, please submit a PR.
 
+# Roadmap
+
+![Roadmap](/assets/Roadmap.png)
+
+
 # ⚡ Learning Path 
 
 * Learn any programming language that you are comfortable. e.g Python, Go etc.
