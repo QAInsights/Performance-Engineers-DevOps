@@ -68,7 +68,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 # 🏑 Practice 
 
-* [k3s](https://found.ee/InlG) - Free credits during beta (Referral Link)
+* [k3s](https://bit.ly/30Rkx0B) - Free credits during beta (Referral Link)
 * [KataKoda](https://www.katacoda.com/)
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [QwikLabs](https://www.qwiklabs.com/)
