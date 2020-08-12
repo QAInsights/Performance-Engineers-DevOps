@@ -63,6 +63,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [Whiz Labs](https://found.ee/JsuU)
 * [Channel 9](https://channel9.msdn.com/Shows/DevOps-Lab)
 * [Cognitive Class - Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course)
+* [Learn Kubernetes with your kids](https://redhat.lookbookhq.com/c/ne-bpmp_esi?x=Z3V20d&sc_cid=7013a000002gmsuAAA)
 
 ---
 
