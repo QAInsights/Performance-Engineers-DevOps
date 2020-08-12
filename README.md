@@ -67,7 +67,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 ---
 
-# 🏑 Practice 
+# 🏑 Play
 
 * [k3s](https://bit.ly/30Rkx0B) - Free credits during beta (Referral Link)
 * [KataKoda](https://www.katacoda.com/)
@@ -99,7 +99,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 ---
 
 ## 💲 Donate
-☕ <a target="_blank" href="https://www.buymeacoffee.com/qainsights">Buy me a tea</span></a>
+☕ <a target="_blank" href="https://www.buymeacoffee.com/qainsights">Buy me a tea</a>
 
 ---
 
