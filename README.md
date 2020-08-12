@@ -49,9 +49,9 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 * [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)
-* [Chaos Engineering](https://www.gremlin.com/chaos-engineering/)
-* [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
-* [Gremlin SRE](https://www.gremlin.com/site-reliability-engineering)
+* [Chaos Engineering](https://www.gremlin.com/chaos-engineering/) 🆕
+* [Chaos Monkey](https://www.gremlin.com/chaos-monkey/) 🆕
+* [Gremlin SRE](https://www.gremlin.com/site-reliability-engineering) 🆕
 
 ---
 
@@ -63,7 +63,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [Whiz Labs](https://found.ee/JsuU)
 * [Channel 9](https://channel9.msdn.com/Shows/DevOps-Lab)
 * [Cognitive Class - Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course)
-* [Learn Kubernetes with your kids](https://redhat.lookbookhq.com/c/ne-bpmp_esi?x=Z3V20d&sc_cid=7013a000002gmsuAAA)
+* [Learn Kubernetes with your kids](https://redhat.lookbookhq.com/c/ne-bpmp_esi?x=Z3V20d&sc_cid=7013a000002gmsuAAA) 🆕
 
 ---
 
@@ -73,7 +73,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [KataKoda](https://www.katacoda.com/)
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [QwikLabs](https://www.qwiklabs.com/)
-* [k8s basicLearning](https://github.com/knrt10/kubernetes-basicLearning)
+* [k8s basicLearning](https://github.com/knrt10/kubernetes-basicLearning) 🆕
 
 ---
 
@@ -94,9 +94,11 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 * [Dynatrace DevOps](https://www.dynatrace.com/resources/ebooks/what-is-devops-and-release-management/)
 * [New Relic DevOps](https://newrelic.com/devops/)
-* [New Relic AI](https://newr.ai/)
+* [New Relic AI](https://newr.ai/) 🆕
 
 ---
 
 ## 💲 Donate
 <a target="_blank" href="https://www.buymeacoffee.com/qainsights"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
+
+🆕 - recently added
