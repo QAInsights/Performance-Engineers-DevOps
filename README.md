@@ -34,6 +34,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 ### OS
 * [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+* [Linux Journey](https://linuxjourney.com/) 🆕
 
 ### SRE
 * [Site Reliability Engineering](https://landing.google.com/sre/)
