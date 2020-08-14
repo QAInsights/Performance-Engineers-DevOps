@@ -89,6 +89,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [QwikLabs](https://www.qwiklabs.com/)
 * [k8s basicLearning](https://github.com/knrt10/kubernetes-basicLearning) 🆕
+* [Game of Pods](https://kodekloud.com/p/game-of-pods) 🆕
 
 ---
 
