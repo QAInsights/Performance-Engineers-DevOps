@@ -32,26 +32,42 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 # 📖 Read / Courses
 
-* [Site Reliability Engineering](https://landing.google.com/sre/)
-* [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-* [Docker for Beginners](https://docker-curriculum.com/)
+## OS
 * [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-* [AWS DevOps](https://aws.amazon.com/devops/)
-* [DevOps Practices and Principles from Microsoft](https://www.edx.org/course/devops-practices-and-principles)
-* [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture?)
-* [Prometheus LFS241](https://found.ee/R503)
-* [Google DevOps](https://cloud.google.com/devops)
-* [Learn Docker](https://learndocker.online/)
-* [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/3igKQTG)
+
+## SRE
+* [Site Reliability Engineering](https://landing.google.com/sre/)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://amzn.to/33yoIzZ)
 * [Seeking SRE: Conversations About Running Production Systems at Scale](https://amzn.to/33x2VZk)
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3gyctHe)
+
+## Container Orchestration
+* [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 * [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)
+
+## DevOps
+* [AWS DevOps](https://aws.amazon.com/devops/)
+* [Google DevOps](https://cloud.google.com/devops)
+* [DevOps Practices and Principles from Microsoft](https://www.edx.org/course/devops-practices-and-principles)
+* [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture?)
+* [Dynatrace DevOps](https://www.dynatrace.com/resources/ebooks/what-is-devops-and-release-management/)
+* [New Relic DevOps](https://newrelic.com/devops/)
+
+
+## Containers
+* [Learn Docker](https://learndocker.online/)
+* [Docker for Beginners](https://docker-curriculum.com/)
+* [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/3igKQTG)
+
+## Chaos
 * [Chaos Engineering](https://www.gremlin.com/chaos-engineering/) 🆕
 * [Chaos Monkey](https://www.gremlin.com/chaos-monkey/) 🆕
 * [Gremlin SRE](https://www.gremlin.com/site-reliability-engineering) 🆕
+
+## Monitoring
+* [Prometheus LFS241](https://found.ee/R503)
 
 ---
 
@@ -92,8 +108,6 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 # 📌 Others 
 
-* [Dynatrace DevOps](https://www.dynatrace.com/resources/ebooks/what-is-devops-and-release-management/)
-* [New Relic DevOps](https://newrelic.com/devops/)
 * [New Relic AI](https://newr.ai/) 🆕
 
 ---
