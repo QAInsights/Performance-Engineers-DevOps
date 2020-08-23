@@ -80,8 +80,8 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 # 🎉 Show-off 
 
 * [Certified Rancher Operator: Level 1](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about)
-* [Certified Kubernetes Administrator](https://found.ee/dPwO)
-* [Certified Kubernetes Application Developer](https://found.ee/Bccy)
+* [Certified Kubernetes Administrator](https://qain.si/cka)
+* [Certified Kubernetes Application Developer](https://qain.si/ckad)
 * [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
 * [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
 * [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
