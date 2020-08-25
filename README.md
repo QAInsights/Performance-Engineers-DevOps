@@ -31,35 +31,35 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 ---
 
 # 📖 Read / Courses
-* [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-## 
+* [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)  
+
 * [AWS DevOps](https://aws.amazon.com/devops/)
 * [Google DevOps](https://cloud.google.com/devops)
-* [DevOps Practices and Principles from Microsoft](https://www.edx.org/course/devops-practices-and-principles)
-##
+* [DevOps Practices and Principles from Microsoft](https://www.edx.org/course/devops-practices-and-principles)  
+
 * [Docker for Beginners](https://docker-curriculum.com/)
 * [Learn Docker](https://learndocker.online/)
-* [The Docker Handbook](https://github.com/fhsinchy/docker-handbook-projects) 🆕
-##
+* [The Docker Handbook](https://github.com/fhsinchy/docker-handbook-projects) 🆕  
+
 * [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Kubernetes Handbook](https://github.com/fhsinchy/kubernetes-handbook-projects) 🆕
 * [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
-* [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)
-##
+* [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)  
+
 * [Site Reliability Engineering](https://landing.google.com/sre/)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://amzn.to/33yoIzZ)
-* [Seeking SRE: Conversations About Running Production Systems at Scale](https://amzn.to/33x2VZk)
-##
+* [Seeking SRE: Conversations About Running Production Systems at Scale](https://amzn.to/33x2VZk)  
+
 * [Chaos Engineering](https://www.gremlin.com/chaos-engineering/) 🆕
 * [Chaos Monkey](https://www.gremlin.com/chaos-monkey/) 🆕
-* [Gremlin SRE](https://www.gremlin.com/site-reliability-engineering) 🆕
-##
+* [Gremlin SRE](https://www.gremlin.com/site-reliability-engineering) 🆕  
+
 * [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/3igKQTG)
 * [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture?)
-* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3gyctHe)
-##
-* [Prometheus LFS241](https://found.ee/R503)
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3gyctHe)  
+
+* [Prometheus LFS241](https://found.ee/R503)  
 
 ---
 
