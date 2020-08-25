@@ -42,10 +42,12 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [Prometheus LFS241](https://found.ee/R503)
 * [Google DevOps](https://cloud.google.com/devops)
 * [Learn Docker](https://learndocker.online/)
+* [The Docker Handbook](https://github.com/fhsinchy/docker-handbook-projects) 🆕
 * [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/3igKQTG)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://amzn.to/33yoIzZ)
 * [Seeking SRE: Conversations About Running Production Systems at Scale](https://amzn.to/33x2VZk)
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3gyctHe)
+* [Kubernetes Handbook](https://github.com/fhsinchy/kubernetes-handbook-projects) 🆕
 * [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 * [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)
@@ -103,4 +105,4 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 ---
 
-🆕 - recently added
+> 🆕 - recently added
