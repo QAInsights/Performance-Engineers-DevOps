@@ -75,6 +75,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [Play with Docker](https://labs.play-with-docker.com/)
 * [QwikLabs](https://www.qwiklabs.com/)
 * [k8s basicLearning](https://github.com/knrt10/kubernetes-basicLearning) 🆕
+* [Git](https://learngitbranching.js.org/) 🆕
 
 ---
 
