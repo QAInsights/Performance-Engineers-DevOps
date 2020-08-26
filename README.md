@@ -43,6 +43,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 * [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)  
+* [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path)  
 * [Site Reliability Engineering](https://landing.google.com/sre/)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://amzn.to/33yoIzZ)
 * [Seeking SRE: Conversations About Running Production Systems at Scale](https://amzn.to/33x2VZk)  
