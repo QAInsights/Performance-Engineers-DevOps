@@ -60,6 +60,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 # 📺 Watch 
 
+* [Start Kubernetes](https://gumroad.com/a/488174707/CgjFn)
 * KodeKloud
 * Linux Academy
 * [Kube Academy](https://kube.academy/)
