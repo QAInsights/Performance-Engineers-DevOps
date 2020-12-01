@@ -40,6 +40,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [The Docker Handbook](https://github.com/fhsinchy/docker-handbook-projects) 🆕  
 * [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Kubernetes Handbook](https://github.com/fhsinchy/kubernetes-handbook-projects) 🆕
+* [Kubernetes Bootcamp](https://www.cockroachlabs.com/kubernetes-bootcamp) 🆕
 * [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://amzn.to/2PuoSjx)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 * [Kubernetes Patterns](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)  
