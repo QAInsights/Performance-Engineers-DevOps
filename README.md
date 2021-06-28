@@ -93,6 +93,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 * [Puppet Professional](https://puppet.com/learning-training/certification/)
 * [Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
+* [Gremlin Chaos Engineering Practitioner](https://www.gremlin.com/blog/announcing-the-gremlin-chaos-engineering-practitioner-certificate-program/)
 
 ---
 
