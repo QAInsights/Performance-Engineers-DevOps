@@ -85,7 +85,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 # 🎉 Show-off 
 
-* [Certified Rancher Operator: Level 1](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about)
+* [Certified Rancher Operator: Level 1](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) 0️⃣
 * [Certified Kubernetes Administrator](https://qain.si/cka)
 * [Certified Kubernetes Application Developer](https://qain.si/ckad)
 * [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
@@ -93,7 +93,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 * [Puppet Professional](https://puppet.com/learning-training/certification/)
 * [Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
-* [Gremlin Chaos Engineering Practitioner](https://www.gremlin.com/blog/announcing-the-gremlin-chaos-engineering-practitioner-certificate-program/)
+* [Gremlin Chaos Engineering Practitioner](https://www.gremlin.com/blog/announcing-the-gremlin-chaos-engineering-practitioner-certificate-program/) 0️⃣
 
 ---
 
@@ -110,4 +110,5 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 
 ---
 
-> 🆕 - recently added
+> 🆕 - recently added  
+> 0️⃣ - free certification  
