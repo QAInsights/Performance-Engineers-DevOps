@@ -31,6 +31,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 ---
 
 # 📖 Read / Courses
+* [LinkedIn SRE School](https://linkedin.github.io/school-of-sre/) 🆕  
 * [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)  
 * [AWS DevOps](https://aws.amazon.com/devops/)
 * [Google DevOps](https://cloud.google.com/devops)
