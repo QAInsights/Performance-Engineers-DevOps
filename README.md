@@ -56,7 +56,7 @@ This roadmap has been created using [Coggle](https://coggle.it/recommend/5f31914
 * [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/3igKQTG)
 * [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture?)
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3gyctHe)  
-* [Prometheus LFS241](https://found.ee/R503)  
+* [Prometheus LFS241](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)  
 
 ---
 
